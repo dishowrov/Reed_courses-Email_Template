@@ -1,0 +1,251 @@
+/* Common CSS started */
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+/* Common CSS ended */
+
+#template-wrapper {
+    background-color: #363636;
+}
+
+#template-wrapper #template {
+    padding: 15px 0;
+}
+
+#template-wrapper #template .template-header {
+    text-align: center;
+}
+
+#template-wrapper #template .template-header img {
+    width: auto;
+}
+
+#template-wrapper #template .template-box {
+    background-color: #292929;
+    padding: 35px 65px;
+    margin-top: 11px;
+    border: 1px solid #ffffff;
+}
+
+#template-wrapper #template .template-box-one {
+    text-align: center;
+    box-shadow: 0px -5px  #3D8439;
+    border-radius: 0 0 5px 5px;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    -ms-border-radius: 0 0 5px 5px;
+    -o-border-radius: 0 0 5px 5px;
+}
+
+#template-wrapper #template .template-box-two, .template-box-three {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#template-wrapper #template .template-box .template-box-details {
+    padding-top: 25px;
+}
+
+#template-wrapper #template .template-box .template-box-btn {
+    padding-top: 25px;
+}
+
+#template-wrapper #template .template-box .template-box-btn a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 15px 40px;
+    background-color: #3D8439;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#template-wrapper #template .template-box .template-box-details .template-box-details-title {
+    font-weight: 700;
+    font-size: 22px;
+    color: #ecf4fb;
+}
+
+#template-wrapper #template .template-box .template-box-details .template-box-deteils-paragraphs p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #ecf4fb;
+}
+
+#template-wrapper #template .template-box .template-box-details .template-box-deteils-paragraphs p a {
+    color: #ecf4fb;
+}
+
+#template-wrapper #template .template-box .template-box-course-item {
+    background-color: #2C2C2C;
+    padding:25px 25px 35px 25px;
+    margin: 15px 0;
+}
+
+#template-wrapper #template .template-box .template-box-course-item .template-box-course-item-info a {
+    text-decoration: none;
+}
+
+#template-wrapper #template .template-box .template-box-course-item .template-box-course-item-info a .template-box-course-item-title {
+    font-weight: 700;
+    font-size: 18px;
+    color: #ce97ff;
+}
+
+#template-wrapper #template .template-box .template-box-course-item .template-box-course-item-info .template-box-course-item-details {
+    line-height: 22px;
+    color: #ecf4fb;
+}
+
+#template-wrapper #template .template-box .template-box-course-item .template-box-course-item-img img{
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+#template-wrapper #template .template-box .template-box-course-item .template-box-course-item-btn {
+    text-align: center;
+    padding-top: 35px;
+}
+
+#template-wrapper #template .template-box .template-box-course-item .template-box-course-item-btn a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 15px 40px;
+    background-color: #3D8439;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#template-wrapper #template .template-box .template-box-course-btn {
+    text-align: center;
+    padding-top: 35px;
+}
+
+#template-wrapper #template .template-box .template-box-course-btn a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 15px 40px;
+    background-color: #3D8439;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+#template-wrapper #template .template-box-three {
+    padding: 25px 95px;
+}
+
+#template-wrapper #template .template-box .template-box-title {
+    text-align: center;
+}
+
+#template-wrapper #template .template-box .template-box-title h2 {
+    font-weight: 700;
+    font-size: 22px;
+    color: #ecf4fb;
+}
+
+#template-wrapper #template .template-box-three .template-box-features .template-box-features-item {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+}
+
+#template-wrapper #template .template-box-three .template-box-features .template-box-features-item .template-box-features-item-tick img {
+    width: 45px;
+}
+
+#template-wrapper #template .template-box-three .template-box-features .template-box-features-item .template-box-features-item-details p {
+    color: #bfb8b4;
+}
+
+#template-wrapper #template .template-footer {
+    padding: 35px 115px 10px 115px;
+    text-align: center;
+}
+
+#template-wrapper #template .template-footer .template-footer-social-part {
+    position: relative;
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+#template-wrapper #template .template-footer .template-footer-social-part::before{
+    content: '';
+    height: 2px;
+    width: 123px;
+    background: #000;
+    position: absolute;
+    top: 50%;
+    right: 100%;
+}
+
+#template-wrapper #template .template-footer .template-footer-social-part::after{
+    content: '';
+    height: 2px;
+    width: 123px;
+    background: #000;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+}
+
+#template-wrapper #template .template-footer .template-footer-social-part a {
+    text-decoration: none;
+}
+
+#template-wrapper #template .template-footer .template-footer-social-part i {
+    font-size: 25px;
+    color: #000000;
+    margin: 0 25px;
+    transition: linear 0.5s;
+    -webkit-transition: linear 0.5s;
+    -moz-transition: linear 0.5s;
+    -ms-transition: linear 0.5s;
+    -o-transition: linear 0.5s;
+}
+
+#template-wrapper #template .template-footer .template-footer-social-part i:hover {
+    color: #ffffff;
+}
+
+#template-wrapper #template .template-footer .template-footer-logo {
+    padding: 35px 0;
+}
+
+#template-wrapper #template .template-footer .template-footer-logo img {
+   width: auto;
+}
+
+#template-wrapper #template .template-footer .template-footer-paragraphs p {
+    color: #ecf4fb;
+}
+
+#template-wrapper #template .template-footer .template-footer-paragraphs a {
+    font-weight: 700;
+    color: #f1e1ff;
+}
+

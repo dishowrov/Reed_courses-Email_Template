@@ -1,0 +1,34 @@
+/* @media (min-width: 576px) and (767.99px) {
+
+} */
+
+@media screen and (max-width: 575.99px) {
+    #template-wrapper #template .template-header img {
+        width: 50%;
+    }
+
+    #template-wrapper #template .template-box {
+        padding: 35px 25px;
+    }
+
+    #template-wrapper #template .template-box .template-box-details .template-box-details-title {
+        font-size: 20px;
+    }
+
+    #template-wrapper #template .template-box .template-box-btn a {
+        font-size: 16px;
+        padding: 13px 35px;
+    }
+
+    #template-wrapper #template .template-box-three .template-box-features .template-box-features-item {
+        gap: 15px;
+    }
+
+    #template-wrapper #template .template-footer {
+        padding: 35px 35px 25px 35px;
+    }
+
+    #template-wrapper #template .template-footer .template-footer-logo img {
+        width: 85%;
+     }
+}
